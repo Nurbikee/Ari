@@ -2,7 +2,7 @@
 my fav singer
 # Sum of natural numbers up to num
 
-num = 16
+num = 22
 
 if num < 0:
    print("Enter a positive number")
